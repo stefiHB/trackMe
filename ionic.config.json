@@ -1,0 +1,7 @@
+{
+  "name": "trackMe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
